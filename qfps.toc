@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: qFPS
+## Notes: Simple FPS and Latency display for WotLK
+## Author: c3t1nn
+## Version: 1.0
+## SavedVariables: qFPSDB
+## DefaultState: enabled
+
+qFPS.lua
