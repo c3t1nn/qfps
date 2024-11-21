@@ -1,4 +1,5 @@
-# qFPS
+# qFPS ![Screenshot_1](https://github.com/user-attachments/assets/f3c73308-b491-4bff-bd19-42c325354276)
+
 Simple FPS and Latency display addon for World of Warcraft WotLK (3.3.5)
 
 ## Features
